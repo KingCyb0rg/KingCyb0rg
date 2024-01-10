@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Morzel Chambers👋
+
+I'm a senior Computer Science undergraduate student at Florida Polytechnic University! I focus mainly on mobile application development.
+
 
 <!--
 **KingCyb0rg/KingCyb0rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my capstone project and a few personal projects
+- 🌱 I’m currently learning Rust, Kotlin, and Django
+- 📫 How to reach me: [chambers.morzel@gmail.com]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love playing RPGs and doing voice impressions!
+
+My Tech Stack:
+
+C/C++, Java, Kotlin, Python, Bash, HTML, JavaScript, 
