@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 My Tech Stack:
 
-![C](tech-icons/C.png) ![C++](https://github.com/KingCyb0rg/KingCyb0rg/tech-icons/c++.png) ![Java](tech-icons/Java.png) Kotlin Python Bash HTML, JavaScript, 
+![C](tech-icons/C.png) ![C++](https://github.com/KingCyb0rg/KingCyb0rg/tech-icons/cpp.png) ![Java](tech-icons/Java.png) Kotlin Python Bash HTML, JavaScript, 
