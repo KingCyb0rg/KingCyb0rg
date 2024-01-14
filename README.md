@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 My Tech Stack:
 
-<a href="https://cprogramming.com/" target="_blank"><img src="/tech-icons/c.png" width=50px></a> <img src="/tech-icons/cpp.png" width=50px> <img src="tech-icons/java.png" width=50px> Kotlin Python Bash HTML, JavaScript, 
+<a href="https://cprogramming.com/" target="_blank" rel="noreferrer noopener"><img src="/tech-icons/c.png" width=50px></a> <img src="/tech-icons/cpp.png" width=50px> <img src="tech-icons/java.png" width=50px> Kotlin Python Bash HTML, JavaScript, 
