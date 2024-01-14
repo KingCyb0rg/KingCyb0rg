@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 My Tech Stack:
 
-<img src="tech-icons/C.png" width-50px> <img src="/tech-icons/cpp.png" width=50px> <img src="tech-icons/Java.png" width=50px> Kotlin Python Bash HTML, JavaScript, 
+<img src="/tech-icons/c.png" width-50px> <img src="/tech-icons/cpp.png" width=50px> <img src="tech-icons/java.png" width=50px> Kotlin Python Bash HTML, JavaScript, 
