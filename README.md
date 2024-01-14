@@ -1,4 +1,4 @@
-### Hi there, I'm Morzel Chambers👋
+# Hi there, I'm Morzel Chambers👋
 
 I'm a senior Computer Science undergraduate student at Florida Polytechnic University! I focus mainly on mobile application development.
 
@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing RPGs and doing voice impressions!
 
-My Tech Stack:
-
+## My Tech Stack:
 <a href="https://cprogramming.com/" target="_blank" rel="noreferrer noopener"><img src="/tech-icons/c.png" width=50px></a> <img src="/tech-icons/cpp.png" width=50px> <img src="tech-icons/java.png" width=50px> Kotlin Python Bash HTML, JavaScript, 
