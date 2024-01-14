@@ -1,7 +1,7 @@
 # Hi there, I'm Morzel Chambers👋
 
 ## About Me
-I'm a senior Computer Science undergraduate student at Florida Polytechnic University! I focus mainly on mobile application development.
+I'm a senior Computer Science undergraduate student at Florida Polytechnic University! I focus mainly on mobile and native application development.
 - 🔭 I’m currently working on my capstone project and a few personal projects
 - 🌱 I’m currently learning Rust, Kotlin, and Django
 - 📫 How to reach me: [chambers.morzel@gmail.com]
