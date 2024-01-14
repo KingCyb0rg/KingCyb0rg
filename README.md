@@ -15,4 +15,4 @@ I'm a senior Computer Science undergraduate student at Florida Polytechnic Unive
 ## My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KingCyb0rg&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingCyb0rg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingCyb0rg&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
