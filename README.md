@@ -14,3 +14,4 @@ I'm a senior Computer Science undergraduate student at Florida Polytechnic Unive
 <a href="https://cprogramming.com/" target="_blank" rel="noreferrer noopener"><img src="/tech-icons/c.png" width=50px></a> <img src="/tech-icons/cpp.png" width=50px> <img src="tech-icons/java.png" width=50px> <img src="/tech-icons/kotlin.png" width=50px> <img src="/tech-icons/python.png" width=100px> <img src="/tech-icons/bash.png" width=50px> <img src="/tech-icons/html.png" width=50px> <img src="/tech-icons/javascript.png" width=50px>
 ## My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KingCyb0rg&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingCyb0rg)](https://github.com/anuraghazra/github-readme-stats)
